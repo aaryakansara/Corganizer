@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611883163059",
+    "project_id": "corganizer",
+    "storage_bucket": "corganizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611883163059:android:0b215c1ba21cf689763fc6",
+        "android_client_info": {
+          "package_name": "edu.somaiya.corganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611883163059-6ka6foqusi0agee1j135nm4enpgsjoju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.somaiya.corganizer",
+            "certificate_hash": "9d21d488bea16e5d5892f3e2acb8aed94dc829e3"
+          }
+        },
+        {
+          "client_id": "611883163059-7a25222762kvu0aq71ch9ho12dtjcdm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9KMb-bUh7fAxGjYKfMB40aFsY-SmJ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611883163059-7a25222762kvu0aq71ch9ho12dtjcdm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
